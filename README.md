@@ -4,4 +4,4 @@ For this project, Apple Inc. stock data of last 20 years (July 18th, 2000 to Jul
 
 Statiscal models like ARIMA, SARIMA, SES and Deep learning models like MLP and LSTM architecture were implementation.
 
-Results from the above implementated models were compared. Meaningful insights and observations were presented.
+Results from the above implemented models were compared. Meaningful insights and observations were presented.
